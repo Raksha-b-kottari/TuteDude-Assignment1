@@ -1,0 +1,33 @@
+/* File: src/App.css */
+
+.container {
+  text-align: center;
+  padding: 20px;
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  margin-top: 30px;
+}
+
+.card {
+  width: 250px;
+  padding: 20px;
+  border: 2px solid #ccc;
+  border-radius: 10px;
+}
+
+.number {
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.btn-group button {
+  width: 50px;
+  height: 40px;
+  margin: 5px;
+  font-size: 24px;
+  cursor: pointer;
+}
